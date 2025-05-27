@@ -8,12 +8,12 @@ Each assignment explores core topics in classical computer vision, using Python 
 
 ## 📦 Assignment List
 
-| Assignment | Topics Covered                             | Download |
+| Assignment | Topics Covered                             |
 |------------|---------------------------------------------|----------|
-| 📁 Assignment 1 | Image filtering, convolution, noise reduction     | [Download](Assignment1.zip) |
-| 📁 Assignment 2 | Edge detection, gradient-based methods            | [Download](Assignment2.zip) |
-| 📁 Assignment 3 | Geometric transformations, image warping          | [Download](Assignment3.zip) |
-| 📁 Assignment 4 | Object recognition, template matching, SIFT/SURF  | [Download](Assignment4.zip) |
+| 📁 Assignment 1 | Image filtering, convolution, noise reduction     |
+| 📁 Assignment 2 | Edge detection, gradient-based methods            | 
+| 📁 Assignment 3 | Geometric transformations, image warping          | 
+| 📁 Assignment 4 | Object recognition, template matching, SIFT/SURF  | 
 
 ---
 
